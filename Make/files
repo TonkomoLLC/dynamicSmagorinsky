@@ -1,0 +1,3 @@
+makeTurbulentFluidThermoModels.C
+
+LIB = $(FOAM_USER_LIBBIN)/libdynamicSmagorinskyModel
