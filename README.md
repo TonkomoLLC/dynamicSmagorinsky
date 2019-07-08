@@ -1,6 +1,8 @@
 # dynamicSmagorinsky
 Implementation of the dynamic Smagorinsky model as proposed by Lilly (1992) for OpenFOAM 6
 
+The model compiles with OpenFOAM 7, but presently it has not been tested with OpenFOAM 7.
+
 Based on:
 
 [Alberto Passalacqua's](https://github.com/AlbertoPa/dynamicSmagorinsky) implementation for OpenFOAM 2.3.x
